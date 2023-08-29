@@ -1,4 +1,4 @@
-import React from 'react';
+{/* import React from 'react';
 import { ViewContainer, AboutContent, IAboutData } from '@daniel.neuweiler/react-lib-module';
 
 import GitHubIcon from '@mui/icons-material/GitHub';
@@ -68,4 +68,4 @@ const AboutView: React.FC<Props> = (props) => {
   );
 }
 
-export default AboutView;
+export default AboutView;*/}
